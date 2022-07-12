@@ -1,0 +1,8 @@
+reset;
+
+model shoes.mod
+data shoes.dat
+option display_1col 0;
+option solver cplex;
+solve;
+display x;
