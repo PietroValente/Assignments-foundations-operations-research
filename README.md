@@ -11,4 +11,4 @@ This course focuses on creating mathematical models from real problems and shows
 ## Usability
 
 - Copy the exercise folders into Amplide's "models" folder
-- Through Amplide enter the exercise folder and execute 'include name.run;'
+- Through Amplide enter the exercise folder and execute `include name.run;`
