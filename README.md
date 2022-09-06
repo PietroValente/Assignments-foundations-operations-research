@@ -6,7 +6,7 @@
 
 ## Overview
 
-This course focuses on creating mathematical models from real problems and shows you how to optimize them. We have learned how to convert mathematical models into the AMPL language (through the Amplide IDE), which allows them to be automatically solved. I have uploaded some assignments carried out
+This course focuses on creating mathematical models from real problems and shows how to optimize them. We have learned how to convert mathematical models into the AMPL language (through the Amplide IDE), which allows them to be automatically solved. I have uploaded some assignments carried out
 
 ## Usability
 
